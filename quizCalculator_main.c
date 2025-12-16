@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "quizCalculator.h"
 
 int main()
 {
-    printf("Hi\n");
+    
 }

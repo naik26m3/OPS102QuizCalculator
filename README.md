@@ -1,1 +1,1 @@
-# quizcalculate
+# Quiz Average Calculator for OPS102
